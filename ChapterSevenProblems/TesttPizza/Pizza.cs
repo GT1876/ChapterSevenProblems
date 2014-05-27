@@ -7,5 +7,8 @@ namespace TesttPizza
 {
     class Pizza
     {
+        string toppings;
+        int inches;
+        double price; 
     }
 }
